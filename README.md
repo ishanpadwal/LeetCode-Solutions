@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0152-maximum-product-subarray](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Sorting
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
