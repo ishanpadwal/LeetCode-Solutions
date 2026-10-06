@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Sorting
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Binary Search
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -53,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
