@@ -98,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
