@@ -4,15 +4,15 @@ public:
         int n=heights.size();
         vector<int> pse=findpse(heights);
         vector<int> nse=findnse(heights);
-        int maxans=0;
+        int maxi=0;
         for(int i=0;i<n;i++){
-            maxans=max(maxans,heights[i]*(nse[i]-pse[i]-1));
+            maxi=max(maxi, heights[i]*(nse[i]-pse[i]-1));
         }
-        return maxans;
+        return maxi;
     }
-    vector<int> findpse(vector<int> &heights){
+    vector<int> findpse(vector<int>& heights){
         int n=heights.size();
-        vector<int> pse(n,0);
+        vector<int> pse(n,-1);
         stack<int> st;
         for(int i=0;i<n;i++){
             while(!st.empty() && heights[st.top()]>=heights[i]){
@@ -23,9 +23,9 @@ public:
         }
         return pse;
     }
-    vector<int> findnse(vector<int> &heights){
+    vector<int> findnse(vector<int>& heights){
         int n=heights.size();
-        vector<int> nse(n,0);
+        vector<int> nse(n,-1);
         stack<int> st;
         for(int i=n-1;i>=0;i--){
             while(!st.empty() && heights[st.top()]>=heights[i]){
