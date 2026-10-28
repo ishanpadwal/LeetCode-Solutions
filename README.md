@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Sliding Window
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## String
 |  |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
