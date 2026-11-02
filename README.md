@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Binary Search
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ishanpadwal/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
